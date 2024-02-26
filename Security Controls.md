@@ -70,3 +70,4 @@ date: 26-02-2024
 ---
 
 # {{References}}
+- [Security Controls](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/security-controls-sy0-701/)
