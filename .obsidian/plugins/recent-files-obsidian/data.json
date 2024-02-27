@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Zero Trust",
+      "path": "Zero Trust.md"
+    },
+    {
+      "basename": "Gap Analysis",
+      "path": "Gap Analysis.md"
+    },
+    {
       "basename": "AAA (Authentication, Authorization, Accounting)",
       "path": "AAA (Authentication, Authorization, Accounting).md"
     },
     {
-      "basename": "CIA Triad",
-      "path": "CIA Triad.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "basic.template",
-      "path": "templates/basic.template.md"
-    },
-    {
       "basename": "Security Controls",
       "path": "Security Controls.md"
+    },
+    {
+      "basename": "CIA Triad",
+      "path": "CIA Triad.md"
     }
   ],
   "omittedPaths": [],

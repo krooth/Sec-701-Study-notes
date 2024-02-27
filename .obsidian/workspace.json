@@ -11,8 +11,12 @@
             "id": "4d8061c8e205b2d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/basic.template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -45,26 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIA Triad.md",
+                "file": "AAA (Authentication, Authorization, Accounting).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a3715ecb334b14e",
+            "id": "ef92fc2a9ca9137a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAA (Authentication, Authorization, Accounting).md",
+                "file": "Gap Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0889450bb27ca2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zero Trust.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA (Authentication, Authorization, Accounting).md",
+                "file": "Zero Trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAA (Authentication, Authorization, Accounting).md",
+                "file": "Zero Trust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAA (Authentication, Authorization, Accounting).md"
+                "file": "Zero Trust.md"
               }
             }
           }
@@ -201,15 +217,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a3715ecb334b14e",
+  "active": "f0889450bb27ca2d",
   "lastOpenFiles": [
-    "CIA Triad.md",
+    "Gap Analysis.md",
+    "Zero Trust.md",
     "AAA (Authentication, Authorization, Accounting).md",
+    "Security Controls.md",
+    "CIA Triad.md",
     "README.md",
     "templates/basic.template.md",
-    "Security Controls.md",
-    "Untitled",
-    "templates",
     "templates"
   ]
 }
