@@ -11,12 +11,8 @@
             "id": "4d8061c8e205b2d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/basic.template.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -49,14 +45,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Controls.md",
+                "file": "CIA Triad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a3715ecb334b14e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AAA (Authentication, Authorization, Accounting).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Controls.md",
+                "file": "AAA (Authentication, Authorization, Accounting).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Controls.md",
+                "file": "AAA (Authentication, Authorization, Accounting).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Controls.md"
+                "file": "AAA (Authentication, Authorization, Accounting).md"
               }
             }
           }
@@ -193,12 +201,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78c52e9cf21bd6d5",
+  "active": "6a3715ecb334b14e",
   "lastOpenFiles": [
     "CIA Triad.md",
-    "Security Controls.md",
+    "AAA (Authentication, Authorization, Accounting).md",
     "README.md",
     "templates/basic.template.md",
+    "Security Controls.md",
+    "Untitled",
+    "templates",
     "templates"
   ]
 }
