@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccdca62a4bc29733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zero Trust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9622bcd1717df082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physical Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -109,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "directive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zero Trust.md",
+                "file": "Physical Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zero Trust.md",
+                "file": "Physical Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zero Trust.md"
+                "file": "Physical Security.md"
               }
             }
           }
@@ -217,12 +241,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f0889450bb27ca2d",
+  "active": "9622bcd1717df082",
   "lastOpenFiles": [
-    "Gap Analysis.md",
     "Zero Trust.md",
-    "AAA (Authentication, Authorization, Accounting).md",
+    "Physical Security.md",
     "Security Controls.md",
+    "Gap Analysis.md",
+    "AAA (Authentication, Authorization, Accounting).md",
     "CIA Triad.md",
     "README.md",
     "templates/basic.template.md",

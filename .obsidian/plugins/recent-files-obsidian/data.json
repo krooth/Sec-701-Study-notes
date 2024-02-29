@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Physical Security",
+      "path": "Physical Security.md"
+    },
+    {
       "basename": "Zero Trust",
       "path": "Zero Trust.md"
+    },
+    {
+      "basename": "Security Controls",
+      "path": "Security Controls.md"
     },
     {
       "basename": "Gap Analysis",
@@ -11,10 +19,6 @@
     {
       "basename": "AAA (Authentication, Authorization, Accounting)",
       "path": "AAA (Authentication, Authorization, Accounting).md"
-    },
-    {
-      "basename": "Security Controls",
-      "path": "Security Controls.md"
     },
     {
       "basename": "CIA Triad",
