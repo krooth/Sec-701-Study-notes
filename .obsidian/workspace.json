@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7dcb52cc6db09463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deception and Disruption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physical Security.md",
+                "file": "Deception and Disruption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physical Security.md",
+                "file": "Deception and Disruption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physical Security.md"
+                "file": "Deception and Disruption.md"
               }
             }
           }
@@ -241,12 +253,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9622bcd1717df082",
+  "active": "7dcb52cc6db09463",
   "lastOpenFiles": [
+    "Physical Security.md",
+    "Deception and Disruption.md",
     "Pasted image 20240229074745.png",
     "Pasted image 20240229074558.png",
     "Zero Trust.md",
-    "Physical Security.md",
     "Security Controls.md",
     "Gap Analysis.md",
     "AAA (Authentication, Authorization, Accounting).md",

@@ -29,7 +29,7 @@ date: 28-02-2024
 - Needs to be robust 
 - Prevent climbing
 	- High build
-	- Razor wire
+	- Razor wirep
 ## Video surveillance
 - CCTV (Closed Circuit television)
 	- Can replace physical cards
