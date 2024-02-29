@@ -26,5 +26,26 @@ date: 29-02-2024
 - Instead manages the process
 ## Stakeholders ##
 - Impacted parties by the change management process
-- 
+## Impact Analysis ##
+- Determining risk value is essential
+	- High
+	- Medium
+	- Low
+- Change can cause problems, and before changing we need to understand the risk of changing vs the solution we're making because of change
+## Test results ##
+- Sandbox testing environment
+	- Safe zone for testing before production
+- We do need however to confirm a backout plan, as sandbox might not be a 1-1 exact solution
+## Backout plan ##
+- Contingency plan, reverting plan
+- In case reverting fails we need to have a proper backup
+## Maintenance window ##
+- Maintenance windows might not be easily available depending on environments, so best time might be during off-hours, holidays
+- Time of year considerations
+## Standard operating procedure ##
+- Change management is critical
+- Should be well documented
+- Standard process and procedures and should be followed at all times
+- Regularly updated
+
 # {{References}}
