@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e411e1f9ea14a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Change management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deception and Disruption.md",
+                "file": "Change management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deception and Disruption.md",
+                "file": "Change management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deception and Disruption.md"
+                "file": "Change management.md"
               }
             }
           }
@@ -253,10 +265,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7dcb52cc6db09463",
+  "active": "4e411e1f9ea14a77",
   "lastOpenFiles": [
-    "Physical Security.md",
     "Deception and Disruption.md",
+    "Change management.md",
+    "Physical Security.md",
     "Pasted image 20240229074745.png",
     "Pasted image 20240229074558.png",
     "Zero Trust.md",
