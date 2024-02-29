@@ -11,6 +11,7 @@ date: 28-02-2024
 	- Keep out other things
 	- Allow people, prevent cars and trucks
 - Identify safety concerns
+![[Pasted image 20240229074558.png]]
 ## Access control vestibules ##
 - All doors normally unlocked
 	- Opening one door cases others to lock
@@ -20,6 +21,7 @@ date: 28-02-2024
 	- When one in open, the other cannot be unlocked
 - One at a time, controlled groups
 	- Managed control through an area
+![[Pasted image 20240229074745.png]]
 ## Fencing ##
 - Build a perimeter
 	- Usually very obvious
